@@ -16,8 +16,8 @@ ul{
 }
 
 h3,p {
-	background: #a8ff78; 
-	background: -webkit-linear-gradient(to left, #78ffd6, #a8ff78);  
-	background: linear-gradient(to left, #78ffd6, #a8ff78); 
+      background: #a8ff78; 
+      background: -webkit-linear-gradient(to left, #78ffd6, #a8ff78);  
+      background: linear-gradient(to left, #78ffd6, #a8ff78); 
 }
 
